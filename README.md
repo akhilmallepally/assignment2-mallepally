@@ -21,4 +21,19 @@ Write and run the code :
 * Extract the data
 * Store the data in the required format
 
-**[Link to AboutMe](AboutMe.md)** 
+**[Link to AboutMe](AboutMe.md)**
+
+---
+
+## Places to visit
+
+The below table is about the places that I have visited and liked the most. These are the places that belong to Indian teritory which are quite famous for their own history and beautiful sceneries.
+
+| Location name | Time to be spent | Approximate expenses
+| ------        | ------           | ------
+| Kochi         | 4 days           | $200
+| Mumbai        | 4 days           | $300
+| Kulu          | 5 days           | $300
+| Andaman & Nicobar | 7 days       | $500 
+
+---
