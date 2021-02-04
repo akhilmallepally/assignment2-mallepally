@@ -52,8 +52,8 @@ The below table is about the places that I have visited and liked the most. Thes
 
 ## JavaScript
 
-> JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. 
-<https://developer.mozilla.org/en-US/docs/Web/JavaScript>
+> JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. <br>
+Source link : <https://developer.mozilla.org/en-US/docs/Web/JavaScript>
 
 
 ```
