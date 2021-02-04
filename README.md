@@ -36,3 +36,15 @@ The below table is about the places that I have visited and liked the most. Thes
 | Kulu          | 5 days           | $300
 | Andaman & Nicobar | 7 days       | $500 
 
+---
+
+## Pithy Quotes
+
+> It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong. - *Richard Feynmann*
+ <br>
+
+> Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity. - *Aaron Swartz* 
+<br>
+
+> The more I study, the more insatiable do I feel my genius for it to be. - *Ada Lovelace*
+
