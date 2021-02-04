@@ -48,3 +48,19 @@ The below table is about the places that I have visited and liked the most. Thes
 
 > The more I study, the more insatiable do I feel my genius for it to be. - *Ada Lovelace*
 
+---
+
+## JavaScript
+
+> JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. 
+<https://developer.mozilla.org/en-US/docs/Web/JavaScript>
+
+
+```
+const number = prompt("Enter a number: ");
+if (number > 0) {
+   console.log("The number is positive");
+}
+console.log("The if statement is easy");
+```  
+Quick link for code snippet : <https://www.programiz.com/javascript/if-else>
