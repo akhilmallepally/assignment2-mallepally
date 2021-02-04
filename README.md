@@ -36,6 +36,12 @@ The below table is about the places that I have visited and liked the most. Thes
 | Kulu          | 5 days           | $300
 | Andaman & Nicobar | 7 days       | $500 
 
+![Places images](/images/kochi.jpg)<br>
+
+![Places images](/images/kulu.jpg)<br>
+
+![Places images](/images/Mumbai.jpg)
+
 ---
 
 ## Pithy Quotes
